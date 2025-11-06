@@ -14,7 +14,7 @@ namespace GestionBanque.Tests
     [Collection("Dataservice")]
     public class ClientSqliteDataServiceTest
     {
-        private const string CheminBd = "test.bd";
+        private const string CheminBd = "..\\test.bd";
 
         [Fact]
         [AvantApresDataService(CheminBd)]
