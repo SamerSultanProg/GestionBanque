@@ -3,17 +3,11 @@ using GestionBanque.Models.DataService;
 
 namespace GestionBanque.Tests
 {
-    // Ce décorateur s'assure que toutes les classes de tests ayant le tag "Dataservice" soit
-    // exécutées séquentiellement. Par défaut, xUnit exécute les différentes suites de tests
-    // en parallèle. Toutefois, si nous voulons forcer l'exécution séquentielle entre certaines
-    // suites, nous pouvons utiliser un décorateur avec un nom unique. Pour les tests sur les DataService,
-    // il est important que cela soit séquentiel afin d'éviter qu'un test d'une classe supprime la 
-    // bd de tests pendant qu'un test d'une autre classe utilise la bd. Bref, c'est pour éviter un
-    // accès concurrent à la BD de tests!
+    // Collection pour éviter l'accès concurrent à la même BD
     [Collection("Dataservice")]
-    public  class CompteSqliteDataServiceTest
+    public class CompteSqliteDataServiceTest
     {
-        private const string CheminBd = "..\\test.bd";
+        private const string CheminBd = "test.bd";
 
         [Fact]
         [AvantApresDataService(CheminBd)]
@@ -28,6 +22,26 @@ namespace GestionBanque.Tests
 
             // Affirmation
             Assert.Equal(compteAttendu, compteActuel);
+        }
+
+        [Fact]
+        [AvantApresDataService(CheminBd)]
+        public void Update_ShouldUpdateBalanceInDatabase()
+        {
+            // Préparation
+            var ds = new CompteSqliteDataService(CheminBd);
+            var compte = ds.Get(1)!;          // id = 1, balance initiale 831.76
+            double nouvelleBalance = compte.Balance + 100.0;
+            compte.Balance = nouvelleBalance;
+
+            // Exécution
+            bool resultat = ds.Update(compte);
+
+            // Affirmation
+            Assert.True(resultat);
+
+            var compteModifie = ds.Get(1)!;
+            Assert.Equal(nouvelleBalance, compteModifie.Balance);
         }
     }
 }

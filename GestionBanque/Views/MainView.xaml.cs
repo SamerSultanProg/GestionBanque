@@ -1,7 +1,8 @@
-﻿using GestionBanque.Models.DataService;
+﻿using Autofac;
+using Autofac.Configuration;
 using GestionBanque.ViewModels;
+using Microsoft.Extensions.Configuration;
 using System.Windows;
-
 
 namespace GestionBanque.Views
 {
@@ -10,8 +11,18 @@ namespace GestionBanque.Views
         public MainView()
         {
             InitializeComponent();
-            InteractionUtilisateurGui iug = new InteractionUtilisateurGui();
-            DataContext = new MainViewModel(iug, new BanqueViewModel(iug, new ClientSqliteDataService("banque.bd"), new CompteSqliteDataService("banque.bd")));
+
+            var config = new ConfigurationBuilder()
+                .AddJsonFile("autofac.json")
+                .Build();
+
+            var module = new ConfigurationModule(config);
+            var builder = new ContainerBuilder();
+            builder.RegisterModule(module);
+            var container = builder.Build();
+
+            var mainVm = container.Resolve<MainViewModel>();
+            DataContext = mainVm;
         }
     }
 }

@@ -1,7 +1,95 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\S\\Desktop\\GestionBanque\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A8E6D2C2-21BE-4279-B51F-B3E3C52664F8}|GestionBanque.Tests\\GestionBanque.Tests.csproj|c:\\users\\s\\desktop\\gestionbanque\\gestionbanque.tests\\comptetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8E6D2C2-21BE-4279-B51F-B3E3C52664F8}|GestionBanque.Tests\\GestionBanque.Tests.csproj|solutionrelative:gestionbanque.tests\\comptetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8E6D2C2-21BE-4279-B51F-B3E3C52664F8}|GestionBanque.Tests\\GestionBanque.Tests.csproj|c:\\users\\s\\desktop\\gestionbanque\\gestionbanque.tests\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8E6D2C2-21BE-4279-B51F-B3E3C52664F8}|GestionBanque.Tests\\GestionBanque.Tests.csproj|solutionrelative:gestionbanque.tests\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8E6D2C2-21BE-4279-B51F-B3E3C52664F8}|GestionBanque.Tests\\GestionBanque.Tests.csproj|c:\\users\\s\\desktop\\gestionbanque\\gestionbanque.tests\\clienttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8E6D2C2-21BE-4279-B51F-B3E3C52664F8}|GestionBanque.Tests\\GestionBanque.Tests.csproj|solutionrelative:gestionbanque.tests\\clienttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8E6D2C2-21BE-4279-B51F-B3E3C52664F8}|GestionBanque.Tests\\GestionBanque.Tests.csproj|c:\\users\\s\\desktop\\gestionbanque\\gestionbanque.tests\\comptesqlitedataservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8E6D2C2-21BE-4279-B51F-B3E3C52664F8}|GestionBanque.Tests\\GestionBanque.Tests.csproj|solutionrelative:gestionbanque.tests\\comptesqlitedataservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8E6D2C2-21BE-4279-B51F-B3E3C52664F8}|GestionBanque.Tests\\GestionBanque.Tests.csproj|c:\\users\\s\\desktop\\gestionbanque\\gestionbanque.tests\\clientsqlitedataservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8E6D2C2-21BE-4279-B51F-B3E3C52664F8}|GestionBanque.Tests\\GestionBanque.Tests.csproj|solutionrelative:gestionbanque.tests\\clientsqlitedataservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8E6D2C2-21BE-4279-B51F-B3E3C52664F8}|GestionBanque.Tests\\GestionBanque.Tests.csproj|c:\\users\\s\\desktop\\gestionbanque\\gestionbanque.tests\\banqueviewmodeltests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8E6D2C2-21BE-4279-B51F-B3E3C52664F8}|GestionBanque.Tests\\GestionBanque.Tests.csproj|solutionrelative:gestionbanque.tests\\banqueviewmodeltests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{672E3034-256E-410D-909B-C00D18FF0B1B}|GestionBanque\\GestionBanque.csproj|c:\\users\\s\\desktop\\gestionbanque\\gestionbanque\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{672E3034-256E-410D-909B-C00D18FF0B1B}|GestionBanque\\GestionBanque.csproj|solutionrelative:gestionbanque\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{672E3034-256E-410D-909B-C00D18FF0B1B}|GestionBanque\\GestionBanque.csproj|c:\\users\\s\\desktop\\gestionbanque\\gestionbanque\\viewmodels\\baseviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{672E3034-256E-410D-909B-C00D18FF0B1B}|GestionBanque\\GestionBanque.csproj|solutionrelative:gestionbanque\\viewmodels\\baseviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{672E3034-256E-410D-909B-C00D18FF0B1B}|GestionBanque\\GestionBanque.csproj|c:\\users\\s\\desktop\\gestionbanque\\gestionbanque\\viewmodels\\banqueviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{672E3034-256E-410D-909B-C00D18FF0B1B}|GestionBanque\\GestionBanque.csproj|solutionrelative:gestionbanque\\viewmodels\\banqueviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{672E3034-256E-410D-909B-C00D18FF0B1B}|GestionBanque\\GestionBanque.csproj|c:\\users\\s\\desktop\\gestionbanque\\gestionbanque\\viewmodels\\commands\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{672E3034-256E-410D-909B-C00D18FF0B1B}|GestionBanque\\GestionBanque.csproj|solutionrelative:gestionbanque\\viewmodels\\commands\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{672E3034-256E-410D-909B-C00D18FF0B1B}|GestionBanque\\GestionBanque.csproj|c:\\users\\s\\desktop\\gestionbanque\\gestionbanque\\models\\dataservice\\idataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{672E3034-256E-410D-909B-C00D18FF0B1B}|GestionBanque\\GestionBanque.csproj|solutionrelative:gestionbanque\\models\\dataservice\\idataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{672E3034-256E-410D-909B-C00D18FF0B1B}|GestionBanque\\GestionBanque.csproj|c:\\users\\s\\desktop\\gestionbanque\\gestionbanque\\models\\dataservice\\comptesqlitedataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{672E3034-256E-410D-909B-C00D18FF0B1B}|GestionBanque\\GestionBanque.csproj|solutionrelative:gestionbanque\\models\\dataservice\\comptesqlitedataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{672E3034-256E-410D-909B-C00D18FF0B1B}|GestionBanque\\GestionBanque.csproj|c:\\users\\s\\desktop\\gestionbanque\\gestionbanque\\models\\dataservice\\clientsqlitedataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{672E3034-256E-410D-909B-C00D18FF0B1B}|GestionBanque\\GestionBanque.csproj|solutionrelative:gestionbanque\\models\\dataservice\\clientsqlitedataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{672E3034-256E-410D-909B-C00D18FF0B1B}|GestionBanque\\GestionBanque.csproj|c:\\users\\s\\desktop\\gestionbanque\\gestionbanque\\models\\dataservice\\basesqlitedataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{672E3034-256E-410D-909B-C00D18FF0B1B}|GestionBanque\\GestionBanque.csproj|solutionrelative:gestionbanque\\models\\dataservice\\basesqlitedataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8E6D2C2-21BE-4279-B51F-B3E3C52664F8}|GestionBanque.Tests\\GestionBanque.Tests.csproj|c:\\users\\s\\desktop\\gestionbanque\\gestionbanque.tests\\gestionbanque.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A8E6D2C2-21BE-4279-B51F-B3E3C52664F8}|GestionBanque.Tests\\GestionBanque.Tests.csproj|solutionrelative:gestionbanque.tests\\gestionbanque.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{672E3034-256E-410D-909B-C00D18FF0B1B}|GestionBanque\\GestionBanque.csproj|c:\\users\\s\\desktop\\gestionbanque\\gestionbanque\\gestionbanque.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{672E3034-256E-410D-909B-C00D18FF0B1B}|GestionBanque\\GestionBanque.csproj|solutionrelative:gestionbanque\\gestionbanque.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{672E3034-256E-410D-909B-C00D18FF0B1B}|GestionBanque\\GestionBanque.csproj|c:\\users\\s\\desktop\\gestionbanque\\gestionbanque\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{672E3034-256E-410D-909B-C00D18FF0B1B}|GestionBanque\\GestionBanque.csproj|solutionrelative:gestionbanque\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{672E3034-256E-410D-909B-C00D18FF0B1B}|GestionBanque\\GestionBanque.csproj|c:\\users\\s\\desktop\\gestionbanque\\gestionbanque\\autofac.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{672E3034-256E-410D-909B-C00D18FF0B1B}|GestionBanque\\GestionBanque.csproj|solutionrelative:gestionbanque\\autofac.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8E6D2C2-21BE-4279-B51F-B3E3C52664F8}|GestionBanque.Tests\\GestionBanque.Tests.csproj|c:\\users\\s\\desktop\\gestionbanque\\gestionbanque.tests\\avantapresdataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8E6D2C2-21BE-4279-B51F-B3E3C52664F8}|GestionBanque.Tests\\GestionBanque.Tests.csproj|solutionrelative:gestionbanque.tests\\avantapresdataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{672E3034-256E-410D-909B-C00D18FF0B1B}|GestionBanque\\GestionBanque.csproj|c:\\users\\s\\desktop\\gestionbanque\\gestionbanque\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{672E3034-256E-410D-909B-C00D18FF0B1B}|GestionBanque\\GestionBanque.csproj|solutionrelative:gestionbanque\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{672E3034-256E-410D-909B-C00D18FF0B1B}|GestionBanque\\GestionBanque.csproj|c:\\users\\s\\desktop\\gestionbanque\\gestionbanque\\models\\compte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{672E3034-256E-410D-909B-C00D18FF0B1B}|GestionBanque\\GestionBanque.csproj|solutionrelative:gestionbanque\\models\\compte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +97,291 @@
       "DocumentGroups": [
         {
           "DockedWidth": 518,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 11,
           "Children": [
             {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BaseViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\S\\Desktop\\GestionBanque\\GestionBanque\\ViewModels\\BaseViewModel.cs",
+              "RelativeDocumentMoniker": "GestionBanque\\ViewModels\\BaseViewModel.cs",
+              "ToolTip": "C:\\Users\\S\\Desktop\\GestionBanque\\GestionBanque\\ViewModels\\BaseViewModel.cs",
+              "RelativeToolTip": "GestionBanque\\ViewModels\\BaseViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T04:33:41.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RelayCommand.cs",
+              "DocumentMoniker": "C:\\Users\\S\\Desktop\\GestionBanque\\GestionBanque\\ViewModels\\Commands\\RelayCommand.cs",
+              "RelativeDocumentMoniker": "GestionBanque\\ViewModels\\Commands\\RelayCommand.cs",
+              "ToolTip": "C:\\Users\\S\\Desktop\\GestionBanque\\GestionBanque\\ViewModels\\Commands\\RelayCommand.cs",
+              "RelativeToolTip": "GestionBanque\\ViewModels\\Commands\\RelayCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T04:33:40.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IDataService.cs",
+              "DocumentMoniker": "C:\\Users\\S\\Desktop\\GestionBanque\\GestionBanque\\Models\\DataService\\IDataService.cs",
+              "RelativeDocumentMoniker": "GestionBanque\\Models\\DataService\\IDataService.cs",
+              "ToolTip": "C:\\Users\\S\\Desktop\\GestionBanque\\GestionBanque\\Models\\DataService\\IDataService.cs",
+              "RelativeToolTip": "GestionBanque\\Models\\DataService\\IDataService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T04:33:40.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CompteSqliteDataServiceTest.cs",
+              "DocumentMoniker": "C:\\Users\\S\\Desktop\\GestionBanque\\GestionBanque.Tests\\CompteSqliteDataServiceTest.cs",
+              "RelativeDocumentMoniker": "GestionBanque.Tests\\CompteSqliteDataServiceTest.cs",
+              "ToolTip": "C:\\Users\\S\\Desktop\\GestionBanque\\GestionBanque.Tests\\CompteSqliteDataServiceTest.cs",
+              "RelativeToolTip": "GestionBanque.Tests\\CompteSqliteDataServiceTest.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T01:24:48.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "BaseSqliteDataService.cs",
+              "DocumentMoniker": "C:\\Users\\S\\Desktop\\GestionBanque\\GestionBanque\\Models\\DataService\\BaseSqliteDataService.cs",
+              "RelativeDocumentMoniker": "GestionBanque\\Models\\DataService\\BaseSqliteDataService.cs",
+              "ToolTip": "C:\\Users\\S\\Desktop\\GestionBanque\\GestionBanque\\Models\\DataService\\BaseSqliteDataService.cs",
+              "RelativeToolTip": "GestionBanque\\Models\\DataService\\BaseSqliteDataService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T01:36:58.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ClientSqliteDataService.cs",
+              "DocumentMoniker": "C:\\Users\\S\\Desktop\\GestionBanque\\GestionBanque\\Models\\DataService\\ClientSqliteDataService.cs",
+              "RelativeDocumentMoniker": "GestionBanque\\Models\\DataService\\ClientSqliteDataService.cs",
+              "ToolTip": "C:\\Users\\S\\Desktop\\GestionBanque\\GestionBanque\\Models\\DataService\\ClientSqliteDataService.cs",
+              "RelativeToolTip": "GestionBanque\\Models\\DataService\\ClientSqliteDataService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T01:23:40.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\S\\Desktop\\GestionBanque\\GestionBanque\\ViewModels\\MainViewModel.cs",
+              "RelativeDocumentMoniker": "GestionBanque\\ViewModels\\MainViewModel.cs",
+              "ToolTip": "C:\\Users\\S\\Desktop\\GestionBanque\\GestionBanque\\ViewModels\\MainViewModel.cs",
+              "RelativeToolTip": "GestionBanque\\ViewModels\\MainViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T02:53:56.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BanqueViewModelTests.cs",
+              "DocumentMoniker": "C:\\Users\\S\\Desktop\\GestionBanque\\GestionBanque.Tests\\BanqueViewModelTests.cs",
+              "RelativeDocumentMoniker": "GestionBanque.Tests\\BanqueViewModelTests.cs",
+              "ToolTip": "C:\\Users\\S\\Desktop\\GestionBanque\\GestionBanque.Tests\\BanqueViewModelTests.cs",
+              "RelativeToolTip": "GestionBanque.Tests\\BanqueViewModelTests.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAgwF0AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T03:44:39.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ClientSqliteDataServiceTest.cs",
+              "DocumentMoniker": "C:\\Users\\S\\Desktop\\GestionBanque\\GestionBanque.Tests\\ClientSqliteDataServiceTest.cs",
+              "RelativeDocumentMoniker": "GestionBanque.Tests\\ClientSqliteDataServiceTest.cs",
+              "ToolTip": "C:\\Users\\S\\Desktop\\GestionBanque\\GestionBanque.Tests\\ClientSqliteDataServiceTest.cs",
+              "RelativeToolTip": "GestionBanque.Tests\\ClientSqliteDataServiceTest.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAQwEwAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T01:24:25.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ClientTests.cs",
+              "DocumentMoniker": "C:\\Users\\S\\Desktop\\GestionBanque\\GestionBanque.Tests\\ClientTests.cs",
+              "RelativeDocumentMoniker": "GestionBanque.Tests\\ClientTests.cs",
+              "ToolTip": "C:\\Users\\S\\Desktop\\GestionBanque\\GestionBanque.Tests\\ClientTests.cs",
+              "RelativeToolTip": "GestionBanque.Tests\\ClientTests.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwCIAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T03:42:16.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GlobalUsings.cs",
+              "DocumentMoniker": "C:\\Users\\S\\Desktop\\GestionBanque\\GestionBanque.Tests\\GlobalUsings.cs",
+              "RelativeDocumentMoniker": "GestionBanque.Tests\\GlobalUsings.cs",
+              "ToolTip": "C:\\Users\\S\\Desktop\\GestionBanque\\GestionBanque.Tests\\GlobalUsings.cs",
+              "RelativeToolTip": "GestionBanque.Tests\\GlobalUsings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T04:03:51.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CompteTests.cs",
+              "DocumentMoniker": "C:\\Users\\S\\Desktop\\GestionBanque\\GestionBanque.Tests\\CompteTests.cs",
+              "RelativeDocumentMoniker": "GestionBanque.Tests\\CompteTests.cs",
+              "ToolTip": "C:\\Users\\S\\Desktop\\GestionBanque\\GestionBanque.Tests\\CompteTests.cs",
+              "RelativeToolTip": "GestionBanque.Tests\\CompteTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T03:41:07.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "GestionBanque.Tests.csproj",
+              "DocumentMoniker": "C:\\Users\\S\\Desktop\\GestionBanque\\GestionBanque.Tests\\GestionBanque.Tests.csproj",
+              "RelativeDocumentMoniker": "GestionBanque.Tests\\GestionBanque.Tests.csproj",
+              "ToolTip": "C:\\Users\\S\\Desktop\\GestionBanque\\GestionBanque.Tests\\GestionBanque.Tests.csproj",
+              "RelativeToolTip": "GestionBanque.Tests\\GestionBanque.Tests.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-16T01:24:54.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "GestionBanque.csproj",
+              "DocumentMoniker": "C:\\Users\\S\\Desktop\\GestionBanque\\GestionBanque\\GestionBanque.csproj",
+              "RelativeDocumentMoniker": "GestionBanque\\GestionBanque.csproj",
+              "ToolTip": "C:\\Users\\S\\Desktop\\GestionBanque\\GestionBanque\\GestionBanque.csproj",
+              "RelativeToolTip": "GestionBanque\\GestionBanque.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-16T01:59:38.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AvantApresDataService.cs",
+              "DocumentMoniker": "C:\\Users\\S\\Desktop\\GestionBanque\\GestionBanque.Tests\\AvantApresDataService.cs",
+              "RelativeDocumentMoniker": "GestionBanque.Tests\\AvantApresDataService.cs",
+              "ToolTip": "C:\\Users\\S\\Desktop\\GestionBanque\\GestionBanque.Tests\\AvantApresDataService.cs",
+              "RelativeToolTip": "GestionBanque.Tests\\AvantApresDataService.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T01:07:23.347Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BanqueViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\S\\Desktop\\GestionBanque\\GestionBanque\\ViewModels\\BanqueViewModel.cs",
+              "RelativeDocumentMoniker": "GestionBanque\\ViewModels\\BanqueViewModel.cs",
+              "ToolTip": "C:\\Users\\S\\Desktop\\GestionBanque\\GestionBanque\\ViewModels\\BanqueViewModel.cs",
+              "RelativeToolTip": "GestionBanque\\ViewModels\\BanqueViewModel.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAawDkAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T03:59:15.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CompteSqliteDataService.cs",
+              "DocumentMoniker": "C:\\Users\\S\\Desktop\\GestionBanque\\GestionBanque\\Models\\DataService\\CompteSqliteDataService.cs",
+              "RelativeDocumentMoniker": "GestionBanque\\Models\\DataService\\CompteSqliteDataService.cs",
+              "ToolTip": "C:\\Users\\S\\Desktop\\GestionBanque\\GestionBanque\\Models\\DataService\\CompteSqliteDataService.cs",
+              "RelativeToolTip": "GestionBanque\\Models\\DataService\\CompteSqliteDataService.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAwwDQAAAByAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T01:36:52.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\S\\Desktop\\GestionBanque\\GestionBanque\\App.xaml.cs",
+              "RelativeDocumentMoniker": "GestionBanque\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\S\\Desktop\\GestionBanque\\GestionBanque\\App.xaml.cs",
+              "RelativeToolTip": "GestionBanque\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T04:13:56.34Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Microsoft.Common.CurrentVersion.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ViewState": "AgIAAEcHAAAAAAAAAAAtwGAHAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-11-16T04:15:07.074Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "autofac.json",
+              "DocumentMoniker": "C:\\Users\\S\\Desktop\\GestionBanque\\GestionBanque\\autofac.json",
+              "RelativeDocumentMoniker": "GestionBanque\\autofac.json",
+              "ToolTip": "C:\\Users\\S\\Desktop\\GestionBanque\\GestionBanque\\autofac.json",
+              "RelativeToolTip": "GestionBanque\\autofac.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-16T02:53:10.674Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\Users\\S\\Desktop\\GestionBanque\\GestionBanque\\Models\\Client.cs",
+              "RelativeDocumentMoniker": "GestionBanque\\Models\\Client.cs",
+              "ToolTip": "C:\\Users\\S\\Desktop\\GestionBanque\\GestionBanque\\Models\\Client.cs",
+              "RelativeToolTip": "GestionBanque\\Models\\Client.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T01:46:46.022Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Compte.cs",
+              "DocumentMoniker": "C:\\Users\\S\\Desktop\\GestionBanque\\GestionBanque\\Models\\Compte.cs",
+              "RelativeDocumentMoniker": "GestionBanque\\Models\\Compte.cs",
+              "ToolTip": "C:\\Users\\S\\Desktop\\GestionBanque\\GestionBanque\\Models\\Compte.cs",
+              "RelativeToolTip": "GestionBanque\\Models\\Compte.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T01:31:06.207Z"
+            },
+            {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             }
           ]
         }

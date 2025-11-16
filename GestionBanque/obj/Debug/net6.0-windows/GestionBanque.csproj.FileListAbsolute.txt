@@ -46,7 +46,6 @@ C:\Users\S\Desktop\GestionBanque\GestionBanque\bin\Debug\net6.0-windows\runtimes
 C:\Users\S\Desktop\GestionBanque\GestionBanque\bin\Debug\net6.0-windows\runtimes\win-arm64\native\e_sqlite3.dll
 C:\Users\S\Desktop\GestionBanque\GestionBanque\bin\Debug\net6.0-windows\runtimes\win-x64\native\e_sqlite3.dll
 C:\Users\S\Desktop\GestionBanque\GestionBanque\bin\Debug\net6.0-windows\runtimes\win-x86\native\e_sqlite3.dll
-C:\Users\S\Desktop\GestionBanque\GestionBanque\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
 C:\Users\S\Desktop\GestionBanque\GestionBanque\obj\Debug\net6.0-windows\GestionBanque.csproj.AssemblyReference.cache
 C:\Users\S\Desktop\GestionBanque\GestionBanque\obj\Debug\net6.0-windows\Views\BanqueViewModel.g.cs
 C:\Users\S\Desktop\GestionBanque\GestionBanque\obj\Debug\net6.0-windows\Views\MainView.g.cs
@@ -69,3 +68,15 @@ C:\Users\S\Desktop\GestionBanque\GestionBanque\obj\Debug\net6.0-windows\refint\G
 C:\Users\S\Desktop\GestionBanque\GestionBanque\obj\Debug\net6.0-windows\GestionBanque.pdb
 C:\Users\S\Desktop\GestionBanque\GestionBanque\obj\Debug\net6.0-windows\GestionBanque.genruntimeconfig.cache
 C:\Users\S\Desktop\GestionBanque\GestionBanque\obj\Debug\net6.0-windows\ref\GestionBanque.dll
+C:\Users\S\Desktop\GestionBanque\GestionBanque\bin\Debug\net6.0-windows\Autofac.dll
+C:\Users\S\Desktop\GestionBanque\GestionBanque\obj\Debug\net6.0-windows\GestionBanque.sourcelink.json
+C:\Users\S\Desktop\GestionBanque\GestionBanque\bin\Debug\net6.0-windows\autofac.json
+C:\Users\S\Desktop\GestionBanque\GestionBanque\bin\Debug\net6.0-windows\Autofac.Configuration.dll
+C:\Users\S\Desktop\GestionBanque\GestionBanque\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\S\Desktop\GestionBanque\GestionBanque\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\S\Desktop\GestionBanque\GestionBanque\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\S\Desktop\GestionBanque\GestionBanque\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\S\Desktop\GestionBanque\GestionBanque\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\S\Desktop\GestionBanque\GestionBanque\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\S\Desktop\GestionBanque\GestionBanque\bin\Debug\net6.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\S\Desktop\GestionBanque\GestionBanque\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll

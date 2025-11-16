@@ -23,10 +23,10 @@ namespace GestionBanque.Models.DataService
             {
                 Client c = new Client(
                     lecteur.GetInt32(lecteur.GetOrdinal("id")),
-                    lecteur.GetString(lecteur.GetOrdinal("prenom")),
                     lecteur.GetString(lecteur.GetOrdinal("nom")),
+                    lecteur.GetString(lecteur.GetOrdinal("prenom")),
                     lecteur.GetString(lecteur.GetOrdinal("courriel"))
-                    );
+                ); // bug ; echanger nom et prenom
 
                 RecupererComptes(c);
 

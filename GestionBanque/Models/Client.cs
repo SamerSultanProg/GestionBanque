@@ -8,7 +8,7 @@ namespace GestionBanque.Models
 {
     public class Client : INotifyPropertyChanged
     {
-        private static string pattern = @"^([\w\.\-]+)@?([\w\-]+)((\.(\w){2,3})+)$";
+        private static string pattern = @"^([\w\.\-]+)@([\w\-]+)((\.(\w){2,3})+)$"; // bug, arobase etait optionel
         private static Regex regexCourriel = new Regex(pattern);
 
         private long _id;
@@ -55,7 +55,7 @@ namespace GestionBanque.Models
             {
                 if (value == null || value.Trim().Length == 0)
                     throw new ArgumentException("Le nom est non valide.");
-                _nom = value;
+                _nom = value.Trim(); // bug, rajouter .Trim()
                 OnPropertyChanged();
             }
         }
